@@ -1,0 +1,17 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Configure Gas Prices",
+        "description": "Set location and options",
+        "data": {
+          "latitude": "Latitude",
+          "longitude": "Longitude",
+          "radius": "Radius (km)",
+          "fuel": "Fuel type (95, 98, Diesel)",
+          "top": "Number of stations to display"
+        }
+      }
+    }
+  }
+}

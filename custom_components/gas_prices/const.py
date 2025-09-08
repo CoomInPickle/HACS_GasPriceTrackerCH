@@ -1,0 +1,4 @@
+DOMAIN = "gas_prices"
+DEFAULT_RADIUS = 10
+DEFAULT_FUEL = "95"
+DEFAULT_TOP = 3
