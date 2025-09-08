@@ -2,10 +2,10 @@
   "domain": "gas_prices",
   "name": "Gas Prices",
   "version": "0.2.0",
-  "documentation": "https://github.com/yourname/ha-gas-prices",
+  "documentation": "https://github.com/CoomInPickle/ha-gas-prices",
   "requirements": [],
   "dependencies": [],
-  "codeowners": ["@yourname"],
+  "codeowners": ["@CoomInPickle"],
   "iot_class": "cloud_polling",
   "config_flow": true
 }
